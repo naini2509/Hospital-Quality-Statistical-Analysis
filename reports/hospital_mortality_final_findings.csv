@@ -1,0 +1,11 @@
+Finding,Value
+Total Hospitals Analyzed,4790.0
+Hospitals With Available Scores,4261.0
+Overall Score Availability (%),88.96
+Overall Mean Mortality Score,4.04
+Overall Median Mortality Score,3.9
+Puerto Rico Mean Score,7.47
+Other Locations Mean Score,4.0
+Median Score Difference,3.7
+Mann-Whitney U P-Value,2.4857809643410836e-26
+Probability of Superiority (%),95.89

@@ -1,0 +1,11 @@
+Metric,Value
+Total Hospital Records,4790.0
+Unique Hospitals,4790.0
+Available Scores,4261.0
+Unavailable Scores,529.0
+Score Availability (%),88.96
+Duplicate Hospital Records,0.0
+Negative Scores,0.0
+Zero Scores,0.0
+Minimum Reported Score,1.6
+Maximum Reported Score,12.8

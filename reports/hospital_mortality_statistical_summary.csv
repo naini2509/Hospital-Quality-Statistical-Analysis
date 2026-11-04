@@ -1,0 +1,12 @@
+Metric,Value
+Puerto Rico Hospital Count,45.0
+Other Locations Hospital Count,4216.0
+Puerto Rico Mean Score,7.471111111111112
+Other Locations Mean Score,3.999454459203035
+Puerto Rico Median Score,7.6
+Other Locations Median Score,3.9
+Median Difference,3.6999999999999997
+Mann-Whitney U Statistic,181920.0
+P-Value,2.4857809643410836e-26
+Probability of Superiority,0.958886780518659
+Rank-Biserial Correlation,0.9177735610373181
